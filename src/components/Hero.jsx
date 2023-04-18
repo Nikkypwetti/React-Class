@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './navbar'
+import Navbar from './Object'
 import Second from './second'
 import Hook from './Hook'
 
